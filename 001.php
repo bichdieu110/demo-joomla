@@ -51,6 +51,7 @@
 	echo "<pre>";
 	print_r($student);
 	echo "</pre>";
+	echo "abc";
 	
 	
 	
